@@ -1,0 +1,19 @@
+All keyword : code/spell/mage/bit/byte/magic/traveler/adventure/
+time(optional)
+
+CODESPELL
+CODE:spell
+CodeVenture
+GO:2
+CODE:ZER0
+CODE:ALPHA
+CODE:BETA
+ByteMage
+ByteMagic
+Project:Blitz
+Project:ZER0
+Bit Traveler
+Code Traveler
+COMMAND:EXIT
+Gorunes
+Rune Traveler
