@@ -9,7 +9,7 @@ CODE:ZER0
 CODE:ALPHA
 CODE:BETA
 ByteMage
-ByteMagic
+ByteMagician
 Project:Blitz
 Project:ZER0
 Bit Traveler
