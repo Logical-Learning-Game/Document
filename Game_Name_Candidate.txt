@@ -1,10 +1,8 @@
-All keyword : code/spell/mage/bit/byte/magic/traveler/adventure/
-time(optional)
+keyword : code/spell/mage/bit/byte/magic/traveler/adventure/arcane/time(optional)
 
 CODESPELL
 CODE:spell
 CodeVenture
-GO:2
 CODE:ZER0
 CODE:ALPHA
 CODE:BETA
@@ -17,3 +15,7 @@ Code Traveler
 COMMAND:EXIT
 Gorunes
 Rune Traveler
+Rune Exploror
+Spell Thief
+Arcane Thief
+Runecoder
