@@ -1,4 +1,4 @@
-keyword : code/spell/mage/bit/byte/magic/traveler/adventure/arcane/time(optional)
+Keyword : code/spell/mage/bit/byte/magic/traveler/adventure/arcane/time(optional)
 
 CODESPELL
 CODE:spell
@@ -19,3 +19,4 @@ Rune Exploror
 Spell Thief
 Arcane Thief
 Runecoder
+Mazesage
